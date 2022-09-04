@@ -49,5 +49,9 @@ videoBtn.addEventListener('click', function () {
 	}
 });
 
+// const openModalBtn = document.querySelector('button[data-open-modal]');
+// console.log(openModalBtn);
+
+console.log('hello');
 
 
