@@ -1,0 +1,20 @@
+{
+  "name": "alivio-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielPopchenko/alivio-project.git"
+  },
+  "keywords": [],
+  "author": "Daniil Popchenko <daniel.popchenko@icloud.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielPopchenko/alivio-project/issues"
+  },
+  "homepage": "https://github.com/DanielPopchenko/alivio-project#readme"
+}
